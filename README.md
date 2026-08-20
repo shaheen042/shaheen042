@@ -36,43 +36,43 @@ I am a **Computer Science Engineering graduate** passionate about building moder
 
 ### 💻 Programming Languages
 
-<p align="left">
+<span align="left">
 
 <img src="https://skillicons.dev/icons?i=java,js,ts" />
 
-</p>
+</span>
 
 ### 🎨 Frontend Development
 
-<p align="left">
+<span align="left">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 
-</p>
+</span>
 
 ### ⚙️ Backend Development
 
-<p align="left">
+<span align="left">
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-</p>
+</span>
 
 ### 🗄️ Databases & Backend Services
 
-<p align="left">
+<span align="left">
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,postgres" />
 
-</p>
+</span>
 
 ### 🔧 Tools & Platforms
 
-<p align="left">
+<span align="left">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
-</p>
+</span>
 
 ### 🤖 AI & Modern Technologies
 
