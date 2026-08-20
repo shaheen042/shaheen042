@@ -183,25 +183,7 @@ A responsive news platform that delivers real-time information across multiple c
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaheen042&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheen042&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheen042&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
