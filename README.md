@@ -6,7 +6,7 @@
 
 
 
-### 🚀 MERN Stack Developer | Java Enthusiast | AI Explorer
+### 🚀 Software Developoer | Java Enthusiast | AI Explorer
 
 
 
@@ -44,7 +44,7 @@ I am a **Computer Science Engineering graduate** passionate about building moder
 
 
 
-- 🔭 Currently focused on **Full Stack Web Development**
+- 🔭 Currently focused on **Software Development**
 
 - 🌱 Exploring **Artificial Intelligence and AI-powered applications**
 
