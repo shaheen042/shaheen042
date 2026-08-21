@@ -1,88 +1,97 @@
-## Hi there 👋
-<div align="center">
+# Hi there, I'm Shaheen Siddique 👋
 
-# Hi 👋, I'm Shaheen Siddique
+<!-- Animated Developer Banner -->
 
-### 🚀 MERN Stack Developer | Java Enthusiast | AI Explorer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Shaheen%20Siddique&fontAlign=50&fontAlignY=38&desc=Building%20Ideas%20Into%20Digital%20Experiences%20🚀&descAlign=50&descAlignY=58&animation=fadeIn&fontSize=55" width="100%" />
+</p>
 
-<p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Java+%7C+JavaScript+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;Building+AI-Powered+Applications+%F0%9F%A4%96;Always+Learning.+Always+Building.+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://github.com/shaheen042">
     <img src="https://img.shields.io/github/followers/shaheen042?label=Followers&style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=shaheen042&label=Profile%20Views&style=for-the-badge" />
+  <a href="https://github.com/shaheen042">
+    <img src="https://komarev.com/ghpvc/?username=shaheen042&style=for-the-badge" />
+  </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%92%BB;Exploring+AI+%26+Modern+Technologies+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%E2%9C%A8" />
+---
 
-</div>
+## 🧑‍💻 About Me
+
+```javascript
+const shaheen = {
+  education: "B.Tech in Computer Science Engineering",
+  cgpa: "8.72",
+  languages: ["Java", "JavaScript"],
+  focus: [
+    "Full Stack Development",
+    "MERN Stack",
+    "AI Integration",
+    "Problem Solving"
+  ],
+  currentGoal: "Building impactful and scalable applications 🚀",
+  motto: "Learn. Build. Improve. Repeat. 🔁"
+};
+```
+
+* 💻 Passionate about building **modern and scalable web applications**
+* 🚀 Interested in **Full Stack Development and AI-powered products**
+* 🧠 Strong foundation in **Java, OOPs and JavaScript**
+* 🤖 Exploring the possibilities of **Generative AI and intelligent applications**
+* 🌱 Always learning new technologies and improving my problem-solving skills
 
 ---
 
-## 👨‍💻 About Me
+# ⚡ Tech Arsenal
 
-I am a **Computer Science Engineering graduate** passionate about building modern, scalable, and user-friendly applications.
+<p align="center">
 
-- 🔭 Currently focused on **Full Stack Web Development**
-- 🌱 Exploring **Artificial Intelligence and AI-powered applications**
-- 💻 Strong interest in **Java, MERN Stack, System Design, and Problem Solving**
-- 🧠 Love turning ideas into real-world digital products
-- ⚡ Interested in building applications that are **fast, scalable, and impactful**
+<!-- Languages -->
 
-> **Code. Build. Learn. Improve. Repeat. 🚀**
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=ts" />
 
----
+<!-- Frontend -->
 
-# 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
 
-### 💻 Programming Languages
+<!-- Backend -->
 
-<span align="left">
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
 
-<img src="https://skillicons.dev/icons?i=java,js,ts" />
+<!-- Databases -->
 
-</span>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=supabase" />
 
-### 🎨 Frontend Development
+<!-- Tools -->
 
-<span align="left">
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=postman" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
-</span>
+<p align="center">
 
-### ⚙️ Backend Development
-
-<span align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-</span>
-
-### 🗄️ Databases & Backend Services
-
-<span align="left">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,postgres" />
-
-</span>
-
-### 🔧 Tools & Platforms
-
-<span align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</span>
-
-### 🤖 AI & Modern Technologies
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
-
-<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-AI-8A2BE2?style=for-the-badge"/>
 
 </p>
 
@@ -90,117 +99,191 @@ I am a **Computer Science Engineering graduate** passionate about building moder
 
 # 🚀 Featured Projects
 
-## 🩺 MedGenius — AI-Powered Telemedicine Platform
+<table>
+<tr>
 
-> A smart healthcare platform designed to make virtual medical assistance more accessible.
+<td width="50%">
 
-### ✨ Key Features
+### 🩺 MedGenius
 
-- 🎥 Secure real-time video consultations using **WebRTC**
-- 🤖 AI-powered conversational assistant using **Gemini Flash**
-- 🗺️ Interactive location services using **Google Maps API**
-- 📱 SMS and automated communication support
-- 🧠 AI-assisted healthcare interactions
-- ⚡ Designed for scalable and accessible digital healthcare
+A smart **AI-powered telemedicine platform** designed to improve access to healthcare.
 
-### 🛠️ Built With
+**Tech Stack**
 
-`React.js` · `TypeScript` · `Supabase` · `WebRTC` · `Gemini API` · `Google Maps API`
+`React.js` `TypeScript` `Supabase`
+`WebRTC` `Gemini AI` `Google Maps API`
 
-<p>
+✨ Key Features:
 
-<a href="YOUR_MEDGENIUS_REPO">
-  <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+* 🎥 Secure video consultations
+* 🤖 AI-powered conversational assistant
+* 💊 Smart medicine assistance
+* 📩 SMS and automated support
+* 🗺️ Interactive location services
 
-<a href="YOUR_MEDGENIUS_LIVE_LINK">
-  <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+</td>
+
+<td width="50%">
+
+### 📋 TaskFlow
+
+A **real-time task management platform** designed for efficient team collaboration.
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js`
+`PostgreSQL` `Socket.io`
+
+✨ Key Features:
+
+* ⚡ Real-time task synchronization
+* 👥 Multi-user collaboration
+* 🔄 Dynamic task filtering
+* 📊 Status tracking
+* 🔌 RESTful API architecture
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📰 NewsSphere
+
+A responsive platform that delivers real-time news across multiple categories.
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `Supabase`
+
+✨ Key Features:
+
+* 🔍 Dynamic news search
+* 🗂️ Category-based filtering
+* ⚡ Fast API responses
+* 📱 Fully responsive interface
+* 🔄 Real-time information updates
+
+</td>
+
+<td width="50%">
+
+### 💡 More Projects Coming Soon...
+
+Currently exploring and building more projects around:
+
+🤖 AI Applications
+🌐 Full Stack Systems
+⚡ Real-Time Applications
+🧠 Intelligent Developer Tools
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaheen042&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheen042&layout=compact"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shaheen042" />
 
 </p>
 
 ---
-
-## 📋 TaskFlow — Real-Time Task Management System
-
-A collaborative task management platform built to simplify team workflows and improve productivity.
-
-### ✨ Key Features
-
-- 📌 Create and manage tasks
-- 🔄 Real-time multi-user synchronization
-- 🔍 Dynamic filtering and status tracking
-- ⚡ WebSocket-powered instant updates
-- 🔗 RESTful API architecture
-- 👥 Built to handle concurrent users efficiently
-
-### 🛠️ Built With
-
-`React.js` · `Node.js` · `Express.js` · `PostgreSQL` · `Socket.io`
-
-<p>
-
-<a href="YOUR_TASKFLOW_REPO">
-  <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_TASKFLOW_LIVE_LINK">
-  <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📰 NewsSphere — Real-Time News Aggregator
-
-A responsive news platform that delivers real-time information across multiple categories.
-
-### ✨ Key Features
-
-- 📰 Real-time news aggregation
-- 🔎 Dynamic search functionality
-- 🎯 Category-based filtering
-- 📱 Fully responsive interface
-- ⚡ Optimized API performance
-- 🔄 Seamless real-time data handling
-
-### 🛠️ Built With
-
-`React.js` · `Node.js` · `Express.js` · `Supabase`
-
-<p>
-
-<a href="YOUR_NEWSSPHERE_REPO">
-  <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_NEWSSPHERE_LIVE_LINK">
-  <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-
 
 # 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheen042&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheen042&radius=16&area=true&hide_border=true" width="100%"/>
+</p>
 
 ---
 
-# 🧠 Skills Snapshot
+# 🏆 Achievements & Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🎓_B.Tech-CSE-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤖-Generative_AI-Certified-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/☕-Java-NPTEL-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💻-Full_Stack_Developer-success?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🧠 Currently Exploring
+
+<p align="center">
 
 ```text
-Frontend Development   ████████████████████   React.js / Tailwind CSS
-Backend Development    ███████████████████    Node.js / Express.js
-Database Management    ██████████████████     MongoDB / Supabase / MySQL
-Java Programming       ███████████████████    OOP / Problem Solving
-AI Integration         █████████████████      Gemini API / Generative AI
-Real-Time Systems      █████████████████      Socket.io / WebRTC
+AI Integration        ████████████████████
+Full Stack Systems    ███████████████████
+System Design         ███████████████░░░░
+Data Structures       █████████████████░░
+Problem Solving       ██████████████████░
+```
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shaheen042&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shaheen-siddique">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+   
+
+<a href="https://github.com/shaheen042">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+   
+
+<a href="mailto:shaheensiddique042@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ✨ *"First, solve the problem. Then, write the code."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+
+</p>
